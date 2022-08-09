@@ -1,2 +1,4 @@
-class JobModel(model.Model):
+class JobPortal():
+    profile
+    name
 	
