@@ -1,0 +1,2 @@
+class JobModel(model.Model):
+	
